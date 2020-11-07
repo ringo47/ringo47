@@ -14,7 +14,7 @@
 
 
 ### 👀 Active Repo
-[![Autonomous Robot](https://github-readme-stats.vercel.app/api/pin/?username=ringo47repo=vision_master&theme=dark)](https://github.com/waynerobotics/veronica/)
+[![Autonomous Robot](https://github-readme-stats.vercel.app/api/pin/?username=ringo47&repo=vision_master&theme=dark)](https://github.com/waynerobotics/veronica/)
 
 ### Github Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ringo47&layout=compact&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript)
