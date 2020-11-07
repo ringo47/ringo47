@@ -1,16 +1,10 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ringo47&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ringo47&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![CPP](https://img.shields.io/badge/-C++-black.svg?style=flat&logo=c&link=https://github.com/ringo47)](https://github.com/ringo47) 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/ringo47)](https://github.com/ringo47) 
+[![CPP](https://img.shields.io/badge/-C++-black.svg?style=flat&logo=c&link=https://github.com/ringo47)](https://github.com/ringo47) [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/ringo47)](https://github.com/ringo47) [![PyTorch](https://img.shields.io/badge/-PyTorch-gray?style=flat&logo=pytorch&link=https://github.com/ringo47)](https://github.com/ringo47) 
 
-[![PyTorch](https://img.shields.io/badge/-PyTorch-gray?style=flat&logo=pytorch&link=https://github.com/ringo47)](https://github.com/ringo47) 
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetCode&link=https://leetcode.com/varshith47/)](https://leetcode.com/varshith47/) 
-
-[![GrabCAD](https://img.shields.io/badge/-GrabCAD-ff2800?style=flat&logo=codesandbox&link=https://github.com/ringo47)](https://grabcad.com/varshith.solipuram-1) 
-[![LinkedIn](https://img.shields.io/badge/-GitHub-0e76a8?style=flat&logo=linkedin&link=https://github.com/ringo47)](https://www.linkedin.com/in/varshithsolipuram/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetCode&link=https://leetcode.com/varshith47/)](https://leetcode.com/varshith47/) [![GrabCAD](https://img.shields.io/badge/-GrabCAD-ff2800?style=flat&logo=codesandbox&link=https://github.com/ringo47)](https://grabcad.com/varshith.solipuram-1) [![LinkedIn](https://img.shields.io/badge/-GitHub-0e76a8?style=flat&logo=linkedin&link=https://github.com/ringo47)](https://www.linkedin.com/in/varshithsolipuram/)
 
 
 ### 👀 Active Repo
