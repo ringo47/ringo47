@@ -5,7 +5,7 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ringo47&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy) -->
 <p align="center">
-  <img align="center" src="https://im7.ezgif.com/tmp/ezgif-7-66652e0ea5ce.gif" alt="bleedRGB"/>
+  <img align="center" src="https://github.com/ringo47/ringo47/blob/main/loop.gif" alt="bleedRGB"/>
 </p>
 
   <p align="center">
