@@ -2,7 +2,10 @@
 <h1 align='center'> Hi! :wave:</h1>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ringo47&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy) -->
-<img align="center" src="https://im7.ezgif.com/tmp/ezgif-7-66652e0ea5ce.gif" alt="bleedRGB"/>
+<p align="center">
+  <img align="center" src="https://im7.ezgif.com/tmp/ezgif-7-66652e0ea5ce.gif" alt="bleedRGB"/>
+</p>
+
 
 <!-- <div style="text-align:center"><img src="https://im7.ezgif.com/tmp/ezgif-7-66652e0ea5ce.gif" /></div> -->
 
@@ -13,11 +16,9 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetCode&link=https://leetcode.com/varshith47/)](https://leetcode.com/varshith47/) [![GrabCAD](https://img.shields.io/badge/-GrabCAD-ff2800?style=flat&logo=codesandbox&link=https://github.com/ringo47)](https://grabcad.com/varshith.solipuram-1) [![LinkedIn](https://img.shields.io/badge/-GitHub-0e76a8?style=flat&logo=linkedin&link=https://github.com/ringo47)](https://www.linkedin.com/in/varshithsolipuram/)
 
 
-### 👀 Active Repo
-[![Autonomous Robot](https://github-readme-stats.vercel.app/api/pin/?username=ringo47&repo=vision_master&theme=dark)](https://github.com/waynerobotics/veronica/)
+### 👀 Active Repo and Stats
+[![Autonomous Robot](https://github-readme-stats.vercel.app/api/pin/?username=ringo47&repo=vision_master&theme=dark)](https://github.com/waynerobotics/veronica/) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ringo47&layout=compact&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript)
 
-### Github Status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ringo47&layout=compact&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript)
 
 
 <!--
