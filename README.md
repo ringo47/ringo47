@@ -1,6 +1,12 @@
 ### Hi there 👋
+<h1 align='center'> Hi! :wave:</h1>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ringo47&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy) -->
+<img align="center" src="https://im7.ezgif.com/tmp/ezgif-7-66652e0ea5ce.gif" alt="bleedRGB"/>
+
+<!-- <div style="text-align:center"><img src="https://im7.ezgif.com/tmp/ezgif-7-66652e0ea5ce.gif" /></div> -->
+
+<!-- [![bleedRGB](https://im7.ezgif.com/tmp/ezgif-7-66652e0ea5ce.gif)]() -->
 
 [![CPP](https://img.shields.io/badge/-C++-black.svg?style=flat&logo=c&link=https://github.com/ringo47)](https://github.com/ringo47) [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/ringo47)](https://github.com/ringo47) [![PyTorch](https://img.shields.io/badge/-PyTorch-gray?style=flat&logo=pytorch&link=https://github.com/ringo47)](https://github.com/ringo47) 
 
