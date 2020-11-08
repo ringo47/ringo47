@@ -1,11 +1,11 @@
-### Hi there 👋
-<h1 align='center'> Hi! :wave:</h1>
+
+<h1 align='center'> Hi there 👋</h1>
 
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ringo47&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy) -->
 <p align="center">
-  <img align="center" src="https://github.com/ringo47/ringo47/blob/main/loop.gif" alt="bleedRGB"/>
+  <img align="center" src="https://github.com/ringo47/ringo47/blob/main/loop_r5.gif" alt="bleedRGB"/>
 </p>
 
   <p align="center">
