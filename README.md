@@ -1,7 +1,9 @@
+<h1 align='center'> Hello there! I'm Varshith 👋</h1>
 
-<h1 align='center'> Hi there 👋</h1>
-
-
+<p align="center" style="font-family:'Courier new'"> I'm polymath that loves building and engineering things, especially those pertaining to cars. I've built two formula student cars, an autonomous ground robot and a bunch of other things. I'm passionate about a career in which I get to build electric cars, design powertrains, contribute to self-driving tech and make my future fleet.  </br></br>
+🔭 I’m working on : an autonomous robot, <a href="https://github.com/waynerobotics/veronica">Veronica</a> </br>
+:mortar_board: I graduated with : a Master's in Mechanical Engineering.
+</p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ringo47&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy) -->
 <p align="center">
@@ -21,6 +23,9 @@
     <a href="https://leetcode.com/varshith47/">
       <img alt="LC" src="https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetCode&link=https://leetcode.com/varshith47/" />
     </a>
+    <a href="https://www.mathworks.com/matlabcentral/profile/authors/8484548-varshith-reddy-solipuram">
+      <img alt="LC" src="https://img.shields.io/badge/-MATLAB-black?style=flat&logo=mathworks&link=https://www.mathworks.com/matlabcentral/profile/authors/8484548-varshith-reddy-solipuram" />
+    </a>
     <a href="https://grabcad.com/varshith.solipuram-1">
       <img src="https://img.shields.io/badge/-GrabCAD-ff2800?style=flat&logo=codesandbox&link=https://grabcad.com/varshith.solipuram-1"/>
     </a>
@@ -31,10 +36,7 @@
     </br>
     </br>
     <a href="https://github.com/waynerobotics/veronica/">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ringo47&repo=vision_master&theme=dark"/>
-    </a>
-    <a href="">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringo47&layout=compact&show_icons=true&hide_border=true&theme=dark&hide=CSS,JavaScript"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ringo47&repo=vision_master&theme=vue"/>
     </a>
   </p>
 
