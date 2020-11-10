@@ -1,14 +1,14 @@
 <h1 align='center'> Hello there! I'm Varshith 👋</h1>
-
-<p align="center" style="font-family:'Courier new'"> I'm polymath that loves building and engineering things, especially those pertaining to cars. I've built two formula student cars, an autonomous ground robot and a bunch of other things. I'm passionate about a career in which I get to build electric cars, design powertrains, contribute to self-driving tech and make my future fleet.  </br></br>
-🔭 I’m working on : an autonomous robot, <a href="https://github.com/waynerobotics/veronica">Veronica</a> </br>
+<p align="center">
+  <img align="center" src="https://github.com/ringo47/ringo47/blob/main/loop_r5.gif" alt="bleedRGB"/>
+</p>
+<p align="center" style="font-family:'Courier new'"> I'm a polymath that loves building and engineering things, especially those pertaining to cars. I've built two formula student cars, an autonomous ground robot and a bunch of other things. I'm passionate about a career in which I get to build electric cars, design powertrains, contribute to self-driving tech and make my future fleet.  </br></br>
+🔭 Currently working : on an autonomous robot, <a href="https://github.com/waynerobotics/veronica">Veronica</a> </br>
 :mortar_board: I graduated with : a Master's in Mechanical Engineering.
 </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ringo47&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy) -->
-<p align="center">
-  <img align="center" src="https://github.com/ringo47/ringo47/blob/main/loop_r5.gif" alt="bleedRGB"/>
-</p>
+
 
   <p align="center">
     <a href="https://github.com/ringo47">
